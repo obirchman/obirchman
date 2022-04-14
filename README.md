@@ -1,14 +1,20 @@
 - 👋 Hi, I’m @obirchman
-- 👀 I’m interested in ... Learning everything! Maybe branching out? So Anything not atmega328p.
-- 🌱 I’m currently learning ... Bootloaders, Python, wireless communication, UIs
-- 💞️ I’m looking to collaborate on ... autonomous household device. Or as I like to call it Über-roomba.
+- 
+- 👀 I’m interested in ... way too much! I don't have trouble working, I have trouble not working and
+- more specifically not working on the wrong things!
+- 
+- 🌱 I’m currently learning ... in school about sensors, measurements and also about wireless protocols and
+- technology. In my spare time I'm mostly trying to learn some more Python and version control.
+- 
+- 💞️ I’m looking to collaborate on ... autonomous household device. Or as I like to call it Über-roomba. I did see a
+- interesting concept for making a stirling engine...
 
-- I try to learn through projecting but it can be hard to come up with meaningful projects so any ideas on that
-- is always welcome or if you want help with something for whatever reason I gladly take a look at it but no
-- promises!
+- Currently working on documenting my courses on github.
+- Also working on a solution similar to arduino. Using a atmega328p, bluetooth and python script on PC to repgram it
+- wirelessly.
 
-- Hope you find something of value in my repos. Still very much a work in progress though.
-
+- A bit nervous about using github to make my work public not only from a privacy perspective 
+- but also because it's embarassing.
 
 <!---
 obirchman/obirchman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
